@@ -4,7 +4,6 @@
 
 #import "FHKEvent.h"
 
-
 @implementation FHKEvent
 
 @dynamic number;

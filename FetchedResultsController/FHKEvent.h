@@ -2,9 +2,7 @@
 //  Copyright (c) 2013 Fish Hook LLC. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
-
 
 @interface FHKEvent : NSManagedObject
 
