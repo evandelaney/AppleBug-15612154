@@ -6,6 +6,7 @@
 
 @interface FHKAppDelegate : UIResponder <UIApplicationDelegate>
 
+@property (strong, nonatomic) NSString *dickMeat;
 @property (strong, nonatomic) UIWindow *window;
 
 @end
